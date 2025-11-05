@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./prog_remedio.js"defer></script>
+    <title>Programa para Cálcular os rémedios</title>
+</head>
+<body>
+    <main>
+        <h1>Calcule o volume e preço dos rémedios e unitários</h1>
+        <br>
+        <br>
+        <label for="tipo">Dígite "cápsula" para calcular o valor de uma cápsula por cm³, e Dígite "tanque" para calcular o valor do unitário do remédio por m³</label><br><br>
+        <input type="text" id="tipo" placeholder="tipo">
+<br>
+<br>
+<br>
+<hr>
+        <label for="raio">Dígite o Raio do Cilindro:</label><br>
+        <input type="text" id="raio" placeholder="raio"><br>
+
+        <label for="alturaCil">Dígite a Altura do Cilindro:</label><br>
+        <input type="text" id="alturaCil" placeholder="alturaCil"><br>
+
+        <label for="raioEsf">Dígite o Raio da Esfera:</label><br>
+        <input type="text" id="raioEsf" placeholder="raioEsf"><br>
+        <br>
+        <hr>
+        <label for="largura">Dígite a Largura do Tanque:</label><br>
+        <input type="text" id="largura" placeholder="largura"><br>
+
+        <label for="Comprimento">Dígite o Comprimento do Tanque:</label><br>
+        <input type="text" id="Comprimento" placeholder="Comprimento"><br>
+
+        <label for="alturaTan">Dígite a Altura do Tanque:</label><br>
+        <input type="text" id="alturaTan" placeholder="alturaTan"><br>
+<br>
+<br>
+<br>
+<button onclick="principal()">Calcular</button>
+<div id="resposta"></div>
+    </main>
+</body>
+</html>

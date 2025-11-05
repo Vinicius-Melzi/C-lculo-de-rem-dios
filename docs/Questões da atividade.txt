@@ -1,0 +1,29 @@
+1)	Identificar as configurações de hardware do computador que seja capaz de executar o programa de cálculo para solucionar o problema.
+
+Processador: Intel64 Family 6 Model 191 Stepping 2 GenuineIntel
+Memória Ram: 16 GB
+Tipo de sistema: x64-based PC
+
+2)	Identificar os softwares básicos em relação ao hardware necessários para a execução dos algoritmos e interface do usuário com o programa.
+
+Sistema operacional: Microsoft Windows 11 Enterprise/ Versão: 10.0.26100 N/A compilação 26100
+
+Node JS/ Versão: v22.12.0
+
+Bios/ Versão: LENOVO M4SKT3DA, 03/12/2024
+
+3)	Identificar quais as tecnologias a serem empregadas na criação do algoritmo e da interface.
+
+HTML
+Javascript
+CSS
+
+4)	Planejar quais as funções que o técnico que vai implementar no programa para realizar os cálculos.
+
+calcularVolumeCil
+calcularVolumeTotalCap
+calcularCustoTotalPre
+
+5)	Identificar qual a ferramenta de programação necessária para desenvolver os algoritmos ( IDE )
+
+Visual Studio Code (VS code)/ Versão: 1.96.1
