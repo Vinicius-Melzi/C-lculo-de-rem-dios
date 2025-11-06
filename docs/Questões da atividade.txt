@@ -10,7 +10,7 @@ Sistema operacional: Microsoft Windows 11 Enterprise/ Versão: 10.0.26100 N/A co
 
 Node JS/ Versão: v22.12.0
 
-Bios/ Versão: LENOVO M4SKT3DA, 03/12/2024
+Google Chrome/ Versão: 142.0.7444.134 (Versão oficial) 64 bits
 
 3)	Identificar quais as tecnologias a serem empregadas na criação do algoritmo e da interface.
 
